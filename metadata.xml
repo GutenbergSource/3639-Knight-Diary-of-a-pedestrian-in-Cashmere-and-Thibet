@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+         xmlns:dc="http://purl.org/dc/elements/1.1/">
+   <rdf:Description>
+      <dc:title>Diary of a pedestrian in Cashmere and Thibet</dc:title>
+      <dc:creator>Knight, William Henry</dc:creator>
+      <dc:publisher>Project Gutenberg, Urbana, Illinois, USA., 2003-01-01</dc:publisher>
+      <dc:date>2003-01-01</dc:date>
+      <dc:rights>Copyright Status
+    names:
+        Knight, William Henry
+        Cunningham, Capt. A. (Appendix A.)
+        Vigne (Appendix A.)
+        Klaproth, M. (Appendix B.)
+    year of publication:
+        1863
+    country of publication:
+        United Kingdom
+    status:
+        US: published 1863, expired.
+        EU: no date for author, but reasonably safe to assume that it has expired.
+</dc:rights>
+      <dc:identifier>pg:3639</dc:identifier>
+   </rdf:Description>
+</rdf:RDF>
