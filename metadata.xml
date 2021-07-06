@@ -3,22 +3,15 @@
          xmlns:dc="http://purl.org/dc/elements/1.1/">
    <rdf:Description>
       <dc:title>Diary of a pedestrian in Cashmere and Thibet</dc:title>
-      <dc:creator>Knight, William Henry</dc:creator>
+      <dc:creator>William Henry Knight</dc:creator>
+      <dc:creator>Alexander Cunningham (1814–1893)</dc:creator>
+      <dc:creator>Godfrey Thomas Vigne (1801–1863)</dc:creator>
+      <dc:creator>Heinrich Julius Klaproth (1783–1835)</dc:creator>
       <dc:publisher>Project Gutenberg, Urbana, Illinois, USA., 2003-01-01</dc:publisher>
       <dc:date>2003-01-01</dc:date>
-      <dc:rights>Copyright Status
-    names:
-        Knight, William Henry
-        Cunningham, Capt. A. (Appendix A.)
-        Vigne (Appendix A.)
-        Klaproth, M. (Appendix B.)
-    year of publication:
-        1863
-    country of publication:
-        United Kingdom
-    status:
-        US: published 1863, expired.
-        EU: no date for author, but reasonably safe to assume that it has expired.
+      <dc:rights>This eBook is for the use of anyone anywhere at no cost and with almost no restrictions whatsoever. You may copy it, give it away or re-use it under the terms of the Project Gutenberg License included with this eBook or online at www.gutenberg.org.
+Scans of this work are available from the Internet Archive (copy 1, 2).
+
 </dc:rights>
       <dc:identifier>pg:3639</dc:identifier>
    </rdf:Description>

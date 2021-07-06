@@ -9,8 +9,8 @@ The version maintained in this repository may be slightly out-of-sync with the v
 | Field | Value |
 | ----- | ----- |
 | Title | Diary of a pedestrian in Cashmere and Thibet |
-| Author | Knight, William Henry |
+| Author | William Henry Knight |
 | Publisher | Project Gutenberg, Urbana, Illinois, USA., 2003-01-01 |
 | Publication date | 2003-01-01 |
-| Availability | Copyright Status names: Knight, William Henry Cunningham, Capt. A. (Appendix A.) Vigne (Appendix A.) Klaproth, M. (Appendix B.) year of publication: 1863 country of publication: United Kingdom status: US: published 1863, expired. EU: no date for author, but reasonably safe to assume that it has expired. |
+| Availability | This eBook is for the use of anyone anywhere at no cost and with almost no restrictions whatsoever. You may copy it, give it away or re-use it under the terms of the Project Gutenberg License included with this eBook or online at [www.gutenberg.org](https://www.gutenberg.org/). Scans of this work are available from the Internet Archive (copy [1](https://archive.org/details/diaryofpedestria00knigrich), [2](https://archive.org/details/dli.granth.90287)). |
 | PG Ebook Number | [3639](https://www.gutenberg.org/ebooks/3639) |
